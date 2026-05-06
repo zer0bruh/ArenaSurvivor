@@ -89,7 +89,7 @@ python main.py
 
 ## 💻 Releases
 
-A compiled version of the game is available as standalone apps for both Windows and MacOS:
+A compiled version of the game is available as a standalone app for both Windows and MacOS:
 
 -*sorry linux users*
 - Windows version (.exe)
