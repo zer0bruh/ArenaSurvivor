@@ -94,3 +94,5 @@ A compiled version of the game is available as a standalone app for both Windows
 -*sorry linux users*
 - Windows version (.exe)
 - macOS version (.app)
+
+You can always use the build_releases.py to rebundle the game into an application when making changes. It will create an app depending on the user's operating system. Linux has not been tested.
