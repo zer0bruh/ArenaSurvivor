@@ -1,0 +1,287 @@
+{ "frames": {
+   "Sprite-0001 0.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 1.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 2.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 3.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 4.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 5.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 6.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 7.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 8.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 9.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 10.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 11.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 12.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_idle.": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_jump_land 0.": {
+    "frame": { "x": 128, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_jump_land 1.": {
+    "frame": { "x": 128, "y": 128, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_jump_land 2.": {
+    "frame": { "x": 128, "y": 256, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_shoot_1 0.": {
+    "frame": { "x": 256, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_shoot_1 1.": {
+    "frame": { "x": 256, "y": 128, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_shoot_2 0.": {
+    "frame": { "x": 384, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_shoot_2 1.": {
+    "frame": { "x": 384, "y": 128, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_shoot_3 0.": {
+    "frame": { "x": 512, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_shoot_3 1.": {
+    "frame": { "x": 512, "y": 128, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_shoot_4 0.": {
+    "frame": { "x": 640, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_shoot_4 1.": {
+    "frame": { "x": 640, "y": 128, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   "Sprite-0001 #cannon_projectile.": {
+    "frame": { "x": 768, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.2-dev",
+  "image": "/Users/francoismathieu/Downloads/Sprite-0001.png",
+  "format": "RGBA8888",
+  "size": { "w": 896, "h": 384 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "cannon_idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "cannon_jump_land", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "cannon_shoot_1", "from": 4, "to": 5, "direction": "forward" },
+   { "name": "cannon_shoot_2", "from": 6, "to": 7, "direction": "forward" },
+   { "name": "cannon_shoot_3", "from": 8, "to": 9, "direction": "forward" },
+   { "name": "cannon_shoot_4", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "cannon_projectile", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "cannon_idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "cannon_jump_land", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "cannon_shoot_1", "from": 4, "to": 5, "direction": "forward" },
+   { "name": "cannon_shoot_2", "from": 6, "to": 7, "direction": "forward" },
+   { "name": "cannon_shoot_3", "from": 8, "to": 9, "direction": "forward" },
+   { "name": "cannon_shoot_4", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "cannon_projectile", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "cannon_idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "cannon_jump_land", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "cannon_shoot_1", "from": 4, "to": 5, "direction": "forward" },
+   { "name": "cannon_shoot_2", "from": 6, "to": 7, "direction": "forward" },
+   { "name": "cannon_shoot_3", "from": 8, "to": 9, "direction": "forward" },
+   { "name": "cannon_shoot_4", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "cannon_projectile", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "cannon_idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "cannon_jump_land", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "cannon_shoot_1", "from": 4, "to": 5, "direction": "forward" },
+   { "name": "cannon_shoot_2", "from": 6, "to": 7, "direction": "forward" },
+   { "name": "cannon_shoot_3", "from": 8, "to": 9, "direction": "forward" },
+   { "name": "cannon_shoot_4", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "cannon_projectile", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "cannon_idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "cannon_jump_land", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "cannon_shoot_1", "from": 4, "to": 5, "direction": "forward" },
+   { "name": "cannon_shoot_2", "from": 6, "to": 7, "direction": "forward" },
+   { "name": "cannon_shoot_3", "from": 8, "to": 9, "direction": "forward" },
+   { "name": "cannon_shoot_4", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "cannon_projectile", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "cannon_idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "cannon_jump_land", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "cannon_shoot_1", "from": 4, "to": 5, "direction": "forward" },
+   { "name": "cannon_shoot_2", "from": 6, "to": 7, "direction": "forward" },
+   { "name": "cannon_shoot_3", "from": 8, "to": 9, "direction": "forward" },
+   { "name": "cannon_shoot_4", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "cannon_projectile", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "cannon_idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "cannon_jump_land", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "cannon_shoot_1", "from": 4, "to": 5, "direction": "forward" },
+   { "name": "cannon_shoot_2", "from": 6, "to": 7, "direction": "forward" },
+   { "name": "cannon_shoot_3", "from": 8, "to": 9, "direction": "forward" },
+   { "name": "cannon_shoot_4", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "cannon_projectile", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "cannon_idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "cannon_jump_land", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "cannon_shoot_1", "from": 4, "to": 5, "direction": "forward" },
+   { "name": "cannon_shoot_2", "from": 6, "to": 7, "direction": "forward" },
+   { "name": "cannon_shoot_3", "from": 8, "to": 9, "direction": "forward" },
+   { "name": "cannon_shoot_4", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "cannon_projectile", "from": 12, "to": 12, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}

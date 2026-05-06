@@ -1,0 +1,33 @@
+{ "frames": {
+   "title screen logo.png": {
+    "frame": { "x": 0, "y": 0, "w": 1536, "h": 1024 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1536, "h": 1024 },
+    "sourceSize": { "w": 1536, "h": 1024 },
+    "duration": 100
+   },
+   "title screen logo.png": {
+    "frame": { "x": 0, "y": 0, "w": 1536, "h": 1024 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1536, "h": 1024 },
+    "sourceSize": { "w": 1536, "h": 1024 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.2-dev",
+  "image": "title screen logo-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 1536, "h": 1024 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}

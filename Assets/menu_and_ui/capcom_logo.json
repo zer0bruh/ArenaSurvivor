@@ -1,0 +1,611 @@
+{ "frames": {
+   "capcom_logo 0.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 1.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 2.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 3.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 4.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 5.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 6.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 7.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 8.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 9.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 10.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 11.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 12.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 13.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 14.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 15.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 16.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 17.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 18.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 19.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 20.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 21.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 22.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 23.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 24.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 25.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 26.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 27.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 28.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 29.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 30.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 31.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 32.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 33.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 34.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 35.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo 36.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 0.ase": {
+    "frame": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 1.ase": {
+    "frame": { "x": 114, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 2.ase": {
+    "frame": { "x": 228, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 3.ase": {
+    "frame": { "x": 342, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 4.ase": {
+    "frame": { "x": 456, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 5.ase": {
+    "frame": { "x": 570, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 6.ase": {
+    "frame": { "x": 684, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 7.ase": {
+    "frame": { "x": 798, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 8.ase": {
+    "frame": { "x": 912, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 9.ase": {
+    "frame": { "x": 1026, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 10.ase": {
+    "frame": { "x": 1140, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 11.ase": {
+    "frame": { "x": 1254, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 12.ase": {
+    "frame": { "x": 1368, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 13.ase": {
+    "frame": { "x": 1482, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 14.ase": {
+    "frame": { "x": 1596, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 15.ase": {
+    "frame": { "x": 1710, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 16.ase": {
+    "frame": { "x": 1824, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 17.ase": {
+    "frame": { "x": 1938, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 18.ase": {
+    "frame": { "x": 2052, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 19.ase": {
+    "frame": { "x": 2166, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 20.ase": {
+    "frame": { "x": 2280, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 21.ase": {
+    "frame": { "x": 2394, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 22.ase": {
+    "frame": { "x": 2508, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 23.ase": {
+    "frame": { "x": 2622, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 24.ase": {
+    "frame": { "x": 2736, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 25.ase": {
+    "frame": { "x": 2850, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 26.ase": {
+    "frame": { "x": 2964, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 27.ase": {
+    "frame": { "x": 3078, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 28.ase": {
+    "frame": { "x": 3192, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 29.ase": {
+    "frame": { "x": 3306, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 30.ase": {
+    "frame": { "x": 3420, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 31.ase": {
+    "frame": { "x": 3534, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 32.ase": {
+    "frame": { "x": 3648, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 33.ase": {
+    "frame": { "x": 3762, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 34.ase": {
+    "frame": { "x": 3876, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 35.ase": {
+    "frame": { "x": 3990, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   },
+   "capcom_logo #capcom_logo 36.ase": {
+    "frame": { "x": 4104, "y": 0, "w": 114, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 114, "h": 28 },
+    "sourceSize": { "w": 114, "h": 28 },
+    "duration": 60
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.2-dev",
+  "image": "capcom_logo.png",
+  "format": "RGBA8888",
+  "size": { "w": 4218, "h": 28 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "capcom_logo", "from": 0, "to": 36, "direction": "forward" },
+   { "name": "capcom_logo", "from": 0, "to": 36, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}
