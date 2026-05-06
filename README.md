@@ -84,7 +84,7 @@ This project was mainly about:
 ## ▶️ Running the Game
 
 ```bash
-pip install pygame
+pip install pygame-ce
 python main.py
 
 ## 💻 Releases
