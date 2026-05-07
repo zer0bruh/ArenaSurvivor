@@ -64,7 +64,7 @@ This project was mainly about:
 
 ## ⚠️ Limitations
 
-- Simplified collision system (AABB)
+- Poor performance in some cases
 - Basic enemy AI (tracking behavior)
 - Limited polish and balancing
 - Use of non-original assets
